@@ -1,0 +1,4 @@
+A test of near-realtime charting with the Bayeux cometd library and smoothie charts.
+
+This pretty much proves out the concept, though flot.js may be more appropriate than smoothie.
+
